@@ -113,6 +113,7 @@ and click on the connect icon
 ![WhatsApp Image 2024-04-22 at 10 52 43_4e509094](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/52555d99-2aa6-46c2-b082-e34927906d0c)
 ![WhatsApp Image 2024-04-22 at 10 52 44_d8ccc829](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/bd1e6c90-43e3-42d4-a496-66275815c2dc)
 ![WhatsApp Image 2024-04-22 at 10 52 44_e000d0ac](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/35ab16db-2870-45ea-b45e-ac9395033d64)
+
 ### Output Video:
 https://youtu.be/-olP5yS70hE?si=xYL-gXchjgNsaD2D
 
